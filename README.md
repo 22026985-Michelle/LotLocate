@@ -37,8 +37,6 @@ No installation required. LotLocate is a web-based application accessible throug
 5. Interact with the AI assistants for any queries.
 6. Customize your experience through the profile settings.
 
-For detailed instructions, please refer to the [User Guide](link-to-user-guide).
-
 ## Technologies Used
 
 - Frontend: Flutter/Dart
