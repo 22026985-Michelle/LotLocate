@@ -47,17 +47,10 @@ For detailed instructions, please refer to the [User Guide](link-to-user-guide).
 - AI: Anthropic's language models
 - Hosting: FlutterFlow
 
-## Contributing
-
-We welcome contributions to LotLocate! Please read our [Contributing Guidelines](link-to-contributing-guidelines) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](link-to-license-file).
 
 ## Contact
 
-For support or queries, please contact us through the app's support feature or email us at [support@lotlocate.com](mailto:support@lotlocate.com).
+For support or queries, please contact us through the app's support feature or email us at [michelle.armirola@gmail.com].
 
 ## Acknowledgments
 
